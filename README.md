@@ -4,4 +4,4 @@ This is a backend application for manage a retail store. The program is written 
 
 ## How to run the program
 
-The program is configured to use MySQL database, so necessary database configurations would have to be provided before running the application
+The program is configured to use MySQL database, so it's important to provide the necessary database configurations before running the application
