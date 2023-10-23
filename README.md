@@ -1,6 +1,6 @@
 # Retail App
 
-This is a backend application for manage a retail store. The program is written in Java and the Spring framework.
+This is a backend application for managing a retail store. The program is written in Java and the Spring framework.
 
 ## How to run the program
 
