@@ -1,11 +1,13 @@
 pipeline {
     agent any
-
+    environment {
+        REPO_VERSION = "1.0"
+    }
     stages {
 
         stage("build") {
             steps {
-                echo 'building the retail app...'
+                echo "building the retail app version ${REPO_VERSION}..."
             }
         }
 
